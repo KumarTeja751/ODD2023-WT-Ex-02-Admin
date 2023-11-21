@@ -1,7 +1,7 @@
 # Ex-02-Admin
 
 # AIM
-
+To create admin users
 
 # Design Procedure
 ## Step 1:
